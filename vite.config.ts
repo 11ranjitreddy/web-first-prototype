@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base:"/OtpService/",
+  
   server: {
     host: "::",
     port: 1111,
